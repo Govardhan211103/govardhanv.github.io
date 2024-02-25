@@ -1,6 +1,10 @@
 title: Vembadi Govardhan # your name (or website title) here
 logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  
+  <br>
+  As an undergraduate student in India, I am passionate about Machine Learning, Deep Learning, and MLOps. Currently engaged in significant projects that showcase my expertise in the ML domain, I am committed to continuous learning and seeking opportunities to apply my skills in real-world teams for impactful contributions.
+  <br><br>
   <a href="https://www.linkedin.com/in/govardhan-vembadi/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
