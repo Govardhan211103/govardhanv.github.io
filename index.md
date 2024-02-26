@@ -46,7 +46,7 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 
 <h2>My Blogs</h2>
 
-* <a href="https://govardhan211103.medium.com/what-why-machine-learning-b5816bc8c262">What & Why.. Machine Learning</a>
-* <a href="https://govardhan211103.medium.com/correlation-among-features-and-between-feature-output-label-intuition-and-implementation-1fe66a1332a9"> Correlation among features in DataAnalysis</a>
+- <a href="https://govardhan211103.medium.com/what-why-machine-learning-b5816bc8c262">What & Why.. Machine Learning</a>
+- <a href="https://govardhan211103.medium.com/correlation-among-features-and-between-feature-output-label-intuition-and-implementation-1fe66a1332a9"> Correlation among features in DataAnalysis</a>
 
 </div>
