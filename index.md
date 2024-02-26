@@ -26,21 +26,27 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 
 ---
 
+
+
+
+
 <div style="color: black; background-color: rgb(227, 227, 227); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
-<h3>MLWithMe : Machine Learning from Foundations </h3>  
+<h2>MLWithMe : Machine Learning from Foundations </h2>  
  
 "MLWithMe" is a hands-on repository I created for learning machine learning from its foundations. Dive into ML, exploring core concepts from basics. Join me on this journey as we explore the world of machine learning together.
-<br>
+<br><br>
 <a href = "https://github.com/Govardhan211103/MlWithMe">View repository on GitHub</a>
 
 </div>  
 
 ---
-<br>
 
-## My Blogs
-1. [What & Why.. Machine Learning](https://govardhan211103.medium.com/what-why-machine-learning-b5816bc8c262)  
-2. [Correlation among features in DataAnalysis](https://govardhan211103.medium.com/correlation-among-features-and-between-feature-output-label-intuition-and-implementation-1fe66a1332a9)
+<div style="color: black; background-color: rgb(227, 227, 227); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
----
+<h2>My Blogs</h2>
+
+* <a href="https://govardhan211103.medium.com/what-why-machine-learning-b5816bc8c262">What & Why.. Machine Learning</a>
+* <a href="https://govardhan211103.medium.com/correlation-among-features-and-between-feature-output-label-intuition-and-implementation-1fe66a1332a9"> Correlation among features in DataAnalysis</a>
+
+</div>
