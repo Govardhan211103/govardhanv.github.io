@@ -31,7 +31,7 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 <h3>MLWithMe : Machine Learning from Foundations </h3>  
  
 "MLWithMe" is a hands-on repository I created for learning machine learning from its foundations. Dive into ML, exploring core concepts from basics. Join me on this journey as we explore the world of machine learning together.
-
+<br>
 <a href = "https://github.com/Govardhan211103/MlWithMe">View repository on GitHub</a>
 
 </div>  
