@@ -1,3 +1,4 @@
+
 ## Selected projects in Machine Learning
 
 ---
@@ -6,9 +7,10 @@
 
 Analyzed 7043 records with 21 attributes to forecast customer churn for a Telecom Company, achieving a robust predictive model with 79% accuracy. Implemented sturdy *ML pipelines*, utilizing *DVC* for versioning data, and integrated *MLFlow* for efficient experiment tracking and model registry.
 
+
 *Figure 1: Feature Importances for Logistic regression model.*
 
-<img src="images/Churn_featureImp.png" width = "280" height = "150" />
+<img src="images/Churn_featureImp.png" width = "320" height = "160" />
 
 
 [View Application](https://appapppy-yq4zcdcq8wnggnqtk93bff.streamlit.app/)
@@ -23,13 +25,16 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 [View code on GitHub](https://github.com/Govardhan211103/SalesForecasting)
 
 ---
-<br>
 
-## "MLWithMe" : Machine Learning from Foundations
+<div style="color: black; background-color: rgb(227, 227, 227); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
-"MLWithMe" is a hands-on repository I created for learning machine learning from its foundations. Dive into ML, exploring core concepts from basics. Join me on this journey as we explore the world of machine learning together.  
+<h3>MLWithMe : Machine Learning from Foundations </h3>  
+ 
+"MLWithMe" is a hands-on repository I created for learning machine learning from its foundations. Dive into ML, exploring core concepts from basics. Join me on this journey as we explore the world of machine learning together.
 
-[View repository on GitHub](https://github.com/Govardhan211103/MlWithMe)
+<a href = "https://github.com/Govardhan211103/MlWithMe">View repository on GitHub</a>
+
+</div>  
 
 ---
 <br>
