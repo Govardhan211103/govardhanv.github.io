@@ -13,7 +13,7 @@ This Streamlit application offers a no-code solution for performing image data a
 
 *Figure: DataAug StreamLit application.*
 
-<img src="images/dataaug.jpg" width = "321" height = "257" />
+<img src="images/dataaug.jpg" width = "300" height = "187" />
 
 [View code on GitHub](https://github.com/govardhanvembadi/DataAugmentationApp)
 
@@ -27,7 +27,7 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 
 *Figure: Feature Importances for Logistic regression model.*
 
-<img src="images/Churn_featureImp.png" width = "320" height = "160" />
+<img src="images/Churn_featureImp.png" width = "320" height = "190" />
 
 
 [View Application](https://appapppy-yq4zcdcq8wnggnqtk93bff.streamlit.app/)
