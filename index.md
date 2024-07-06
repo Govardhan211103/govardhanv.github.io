@@ -6,8 +6,8 @@
     
 ## Selected projects in Machine Learning
 
----
-### DataAug
+***
+### DataAug: Data Augmentation application 
 
 This Streamlit application offers a no-code solution for performing image data augmentation. It allows users to enhance their image datasets effortlessly. Whether you're a researcher, developer, or data scientist, this tool makes it easy to apply traditional augmentation techniques like rotation, cropping, zooming, and more.
 
