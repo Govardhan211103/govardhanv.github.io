@@ -19,7 +19,7 @@ This Streamlit application offers a no-code solution for performing image data a
 
 [View Application](https://dataaug.streamlit.app/)
 
----
+***
 ### Customer Churn Prediction
 
 Analyzed 7043 records with 21 attributes to forecast customer churn for a Telecom Company, achieving a robust predictive model with 79% accuracy. Implemented sturdy *ML pipelines*, utilizing *DVC* for versioning data, and integrated *MLFlow* for efficient experiment tracking and model registry.
@@ -34,14 +34,14 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 
 [View code on GitHub](https://github.com/govardhanvembadi/CustomerChurn)
 
----
+***
 ### Walmart Sales Forecasting
 
 "Wal-Mart Sales Forecasting" project focused on predicting sales trends. Efficiently processed 421k records, organized code for easy management, and developed a user-friendly interface with Flask API.
 
 [View code on GitHub](https://github.com/govardhanvembadi/SalesForecasting)
 
----
+***
 
 
 
@@ -57,7 +57,7 @@ Analyzed 7043 records with 21 attributes to forecast customer churn for a Teleco
 
 </div>  
 
----
+***
 
 <div style="color: black; background-color: rgb(227, 227, 227); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
