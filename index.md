@@ -1,4 +1,9 @@
-
+<div style="padding-right: 10px; padding-bottom: 20px; padding-top: 10px; border-radius: 5px;">
+      <a href="#" style="background-color: #007bff; color: #fff; padding: 5px 10px; text-decoration: none; border-radius: 3px; margin-right: 10px;" target="_blank">Download Resume</a>
+      <a href="mailto:vgovardhanvarma.vh@gmail.com" style="background-color: #007bff; color: #fff; padding: 5px 10px; text-decoration: none; border-radius: 3px;" target="_blank">Email</a>
+      
+</div>
+    
 ## Selected projects in Machine Learning
 
 ---
